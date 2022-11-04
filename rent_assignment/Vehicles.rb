@@ -1,4 +1,4 @@
-require "./Vehicle"
+require "./rent_assignment/Vehicle"
 
 class Car < Vehicle
   def initialize
